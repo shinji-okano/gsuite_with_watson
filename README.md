@@ -2,7 +2,7 @@ G Suite with Watson
 ============================================
 GoogleのG Suite（Gmail、フォーム、スプレッドシート、GAS等）とIBM Watson™を組み合わせた業務支援ツールのテンプレート集です。メールやフォーム、RSS等からスプレッドシート上に蓄積したデータを、Watsonへの学習や、Watsonを活用した処理に利用できます。
 
-テンプレートは主に利用Watson APIと、データ収集元により分かれます。現状、Watson APIはNatural Language Classifier（NLC）のみに対応しています。各テンプレートは次のコンポーネントが含まれます。
+テンプレートは主に利用Watson APIと、データ収集元により分かれます。現状、Watson APIはNatural Language Classifier（NLC）のみに対応しています。各テンプレートには次のコンポーネントが含まれます。
 
 - データの収集と動作設定用Google スプレッドシート  
 - IBM Watson™と連携してデータを処理するためのGASスクリプト
